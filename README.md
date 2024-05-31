@@ -6,14 +6,14 @@ Welcome to the Deep Learning Projects Repository! This repository contains a col
 
 ## Table of Contents
 
-1. [Artificial Neural Networks (ANN)](#artificial-neural-networks-ann)
-2. [Bag of Words](#bag-of-words)
-3. [Convolutional Neural Networks (CNN)](#convolutional-neural-networks-cnn)
-4. [Recurrent Neural Networks (RNN)](#recurrent-neural-networks-rnn)
-5. [Generative Adversarial Networks (GAN)](#generative-adversarial-networks-gan)
-6. [Linear and Multiple Regression with ANN](#linear-and-multiple-regression-with-ann)
-7. [Logic Gates using ANN](#logic-gates-using-ann)
-8. [Movie Review Sentiment Analysis (IMDB)](#movie-review-sentiment-analysis-imdb)
+1. [Artificial Neural Networks (ANN)](https://github.com/mvharsh/Deep-Learning/tree/main/ANN)
+2. [Convolutional Neural Networks (CNN)](https://github.com/mvharsh/Deep-Learning/tree/main/CNN)
+3. [Recurrent Neural Networks (RNN)](https://github.com/mvharsh/Deep-Learning/tree/main/RNN)
+4. [Generative Adversarial Networks (GAN)](https://github.com/mvharsh/Deep-Learning/blob/main/GAN.ipynb)
+5. [Bag of Words](https://github.com/mvharsh/Deep-Learning/tree/main/Bag%20of%20words)
+6. [Linear and Multiple Regression with ANN](https://github.com/mvharsh/Deep-Learning/blob/main/Linear_and_Multiple_Regression_ANN.ipynb)
+7. [Logic Gates using ANN](https://github.com/mvharsh/Deep-Learning/blob/main/Logic_Gates.ipynb)
+8. [Movie Review Sentiment Analysis (IMDB)](https://github.com/mvharsh/Deep-Learning/blob/main/Movie_Review_IMDB.ipynb)
 
 ## Project Descriptions
 
@@ -33,7 +33,11 @@ Welcome to the Deep Learning Projects Repository! This repository contains a col
 - **Description**: The scripts preprocess text data by tokenizing, removing stopwords, and punctuation, and storing unique words. They also create a bag-of-words representation and display word frequency counts, which are fundamental techniques in natural language processing (NLP).
 
 ### Convolutional Neural Networks (CNN)
-- **Notebook**: `CNN_Project.ipynb`
+- **Notebook**:
+   - `CNN_Cat_Dog.ipynb`
+   - `CNN_Dog_Breed.ipynb`
+   - `CNN_Monkey_Breed.ipynb`
+   - `Rock_Paper_Scissor.ipynb`
 - **Description**: This notebook demonstrates the use of convolutional neural networks (CNNs) for image classification tasks. It covers data preprocessing, model building, training, and evaluation using a popular image dataset.
 
 ### Recurrent Neural Networks (RNN)
@@ -52,7 +56,7 @@ Welcome to the Deep Learning Projects Repository! This repository contains a col
 - **Notebook**: `Linear_and_Multiple_Regression_ANN.ipynb`
 - **Description**: This notebook applies artificial neural networks to perform linear and multiple regression tasks. It provides a comparison with traditional regression techniques and highlights the advantages of using ANNs for such problems.
 
-### Logic Gates using ANN
+### Logic Gates
 - **Notebook**: `Logic_Gates.ipynb`
 - **Description**: This notebook demonstrates how to use artificial neural networks to simulate basic logic gates such as AND, OR, and XOR. It serves as an introductory project to understand the working of ANNs.
 
